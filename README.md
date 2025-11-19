@@ -14,7 +14,7 @@ Además, incluye control de versiones con Git y está publicada mediante GitHub 
 ## GitHub Pages
 Puedes ver la página en el siguiente enlace:
 
- **https://tuusuario.github.io/tu-repo/**
+ **https://dianaisa5.github.io/PROYECTOFINAL_TRAXION_DIANAACOSTA/**
 
 ## Tecnologias usadas
 - HTML5
